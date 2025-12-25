@@ -9,6 +9,7 @@ Security challenge writeups and penetration testing walkthroughs.
 - [TryHack3M: Subscribe](TryHackMe/TryHack3M_Subscribe/) - JavaScript Analysis, SQLi, Cookie Tampering (Medium)
 - [Bookstore](TryHackMe/Bookstore/) - API Fuzzing, LFI, Binary Reverse Engineering (Medium)
 - [Clocky](TryHackMe/Clocky/) - SSRF, Predictable Tokens, MySQL Privilege Escalation (Medium)
+- [Intranet](TryHackMe/Intranet/) - 2FA Bypass, Flask Session Forgery, Path Traversal to RCE (Medium)
 
 ## 🔗 Find Me
 
