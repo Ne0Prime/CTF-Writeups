@@ -10,6 +10,7 @@ Security challenge writeups and penetration testing walkthroughs.
 - [Bookstore](TryHackMe/Bookstore/) - API Fuzzing, LFI, Binary Reverse Engineering (Medium)
 - [Clocky](TryHackMe/Clocky/) - SSRF, Predictable Tokens, MySQL Privilege Escalation (Medium)
 - [Intranet](TryHackMe/Intranet/) - 2FA Bypass, Flask Session Forgery, Path Traversal to RCE (Medium)
+- [Decryptify](TryHackMe/Decryptify/) - Predictable Tokens, Padding Oracle Attack, Encryption Analysis (Medium)
 
 ## 🔗 Find Me
 
