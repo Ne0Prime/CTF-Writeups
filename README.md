@@ -1,5 +1,5 @@
 # CTF-Writeups
-Capture The Flag writueps
+Capture The Flag writeups
 
 ## 📁 Contents
 
