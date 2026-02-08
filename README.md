@@ -1,5 +1,5 @@
 # CTF-Writeups
-Security challenge writeups and penetration testing walkthroughs.
+Capture The Flag writueps
 
 ## 📁 Contents
 
